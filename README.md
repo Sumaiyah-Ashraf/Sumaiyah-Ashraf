@@ -5,7 +5,7 @@
 - 💬 Ask me about related to Java/Python/CSS/Javascript
 - 📫 How to reach me sumaiyah.lk@gmail.com
 - LinkedIn http://linkedin.com/in/sumaiyah-ashraf-b79495233
-- ⚡ Fun fact: I ❤️💻👨‍🎓👫🖥
+- ⚡ Fun fact: I ❤️💻👨‍🎓
 
 <!---
 Sumaiyah-Ashraf/Sumaiyah-Ashraf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
