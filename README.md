@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sumaiyah-Ashraf
-- 👀 I’m interested in Software Engineer
+- 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Javascript,Springboot,Nodejs,React
 - 💞️ I’m looking to collaborate on Coding
 - 💬 Ask me about related to Java/Python/CSS/Javascript
